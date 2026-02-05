@@ -1,21 +1,6 @@
 /***************************************************************************************
     Name    : LCD Button Shield Menu
-    Author  : Paul Siewert
-    Created : June 14, 2016
-    Last Modified: June 14, 2016
-    Version : 1.0
-    Notes   : This code is for use with an Arduino Uno and LCD/button shield. The
-              intent is for anyone to use this program to give them a starting
-              program with a fully functional menu with minimal modifications
-              required by the user.
-    License : This program is free software. You can redistribute it and/or modify
-              it under the terms of the GNU General Public License as published by
-              the Free Software Foundation, either version 3 of the License, or
-              (at your option) any later version.
-              This program is distributed in the hope that it will be useful,
-              but WITHOUT ANY WARRANTY; without even the implied warranty of
-              MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-              GNU General Public License for more details.
+    Author  : Lufuno Mbau
  ***************************************************************************************/
 /*
    This program is designed to get you as close as possible to a finished menu for the standard Arduino Uno LCD/button shield. The only required modifications
@@ -516,3 +501,4 @@ void menuItem10() { // Function executes when you select the 10th item from main
     }
   }
 }
+
